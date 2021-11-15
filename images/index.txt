@@ -1,0 +1,32 @@
+ <select name ="cadProjects" onchange="location = this.value;"> 
+                        <option value="">CAD Projects</option>
+                        <option value="Chopstick Holder">Chopstick Holder</option>
+                        <option value="Personal Logo Phonecase">Personal Logo Phonecase</option>
+                        <option value="Toy Toaster">Toy Toaster</option>
+                        <option value="Longboard Kickstand">Longboard Kickstand</option>
+                        <option value="Non-rectangular Box">Non-rectangular Box</option>
+                        CAD
+                    </select>
+                </li>
+                <li>
+                    <select name ="rapidprototypes" onchange="location = this.value;">
+                        <option value="rapidprototypes/rapidproto.html">Rapid Prototypes</option>
+                        <option value="rapidprototypes/toytoaster.html">Toy Toaster</option>
+                        <option value="rapidprototypes/personallogophonecase.html">Personal Logo Phonecase</option>
+                        <option value="Trash Collecting Robot">Trash Collecting Robot</option>
+                        <option value="Non-rectangular Box">Non-rectangular Box</option>
+                    Rapid Prototypes
+                    </select>
+                </li>
+                <li>
+                    <select name ="designprojects" onchange="location = this.value;"> 
+                        <option value="">Design Projects</option>
+                        <option value="Bevey Wireframe">Bevey Wireframe</option>
+                        <option value="Personal Business Card">Personal Business Card</option>
+                        <option value="Typography Poster">Typography Poster</option>
+                        <option value="2 dots - Video Animation">2 Dots - Video Animation</option>
+                    Design Projects
+                    </select>
+                </li>
+                <li><a href="funfacts.html">Fun Facts</a></li>
+              </ul>
